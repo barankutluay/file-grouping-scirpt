@@ -2,8 +2,7 @@ import os
 import stat
 
 # Your target path
-path = os.path.join(
-    "C:/Users/baran/OneDrive/Belgeler/My-Documents/Infotech/training-projects/os-module-project-1/src")
+path = os.path.join("")
 
 # Changing directory to the target path
 os.chdir(path)
